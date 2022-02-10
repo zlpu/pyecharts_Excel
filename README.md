@@ -52,3 +52,5 @@
 
 <h3 align = "center">4.运行界面</h3>
 
+![image](https://user-images.githubusercontent.com/46338963/153335677-5e988eca-773d-469b-9717-5a9db9b24e69.png)
+
