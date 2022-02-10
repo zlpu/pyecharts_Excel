@@ -51,5 +51,4 @@
 >03.浏览器访问：ip:5000
 
 <h3 align = "center">4.运行效果</h3>
-![在这里插入图片描述](https://img-blog.csdnimg.cn/12242146367e4bb79b4b9639a83dc1dd.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBASVTlsI_lk6Xlk6U=,size_20,color_FFFFFF,t_70,g_se,x_16)
-
+![img.png](img.png)
