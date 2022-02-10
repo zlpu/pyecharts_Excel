@@ -4,7 +4,10 @@
 2.web框架：Falsk
 数据刷新方式：excel中的数据发生改变后需要重新运行此app.py文件
 3.用到的包：pyecharts、xlrd、flask、datatime
-4.步骤：
+4.excel中的数据的更新方式：
+修改数据或者新增行数据
+
+5.步骤：
 ------01：导入相关的包
 ------02：数据源的准备及处理
 ------03：作图,图表的相关属性设置
@@ -19,11 +22,11 @@ from jinja2 import Markup, Environment, FileSystemLoader
 from pyecharts.globals import CurrentConfig
 
 CurrentConfig.GLOBAL_ENV = Environment(loader=FileSystemLoader("./templates"))
-from pyecharts.charts import Map3D, Map, Bar, Pie, WordCloud, \
-    Line, Gauge, Geo, Liquid, PictorialBar
+from pyecharts.charts import Bar, Pie, WordCloud, \
+    Line, Geo, PictorialBar
 from pyecharts import options as opts
 from pyecharts.globals import ThemeType, SymbolType
-from pyecharts.charts import Page, Grid
+from pyecharts.charts import Grid
 import xlrd
 from pyecharts.globals import ChartType
 import datetime
