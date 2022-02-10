@@ -51,4 +51,5 @@
 >03.浏览器访问：ip:5000
 
 <h3 align = "center">4.运行效果</h3>
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/46338963/153334668-f14422cf-3c11-4f23-92af-7c9ebf9ea937.png)
+
