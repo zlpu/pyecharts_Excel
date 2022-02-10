@@ -8,18 +8,19 @@
 >只要是数据，就有办法可视化
 
 <h3 align = "center">1.概要</h3>
->01.题目：基于python的pyecharts模块实现将excel中的数据可视化案例—网络攻防监控
->
->02.web框架：Falsk
+
+01.题目：基于python的pyecharts模块实现将excel中的数据可视化案例—网络攻防监控
+
+02.web框架：Falsk
 数据刷新方式：Excel中的数据发生改变后需要重新运行此app.py文件
->
->03.用到的包：pyecharts、xlrd、flask、datatime
->
->04.excel中的数据的更新方式：
+
+03.用到的包：pyecharts、xlrd、flask、datatime
+
+04.excel中的数据的更新方式：
 修改数据或者新增行数据
->
->05.步骤：
->
+
+05.步骤：
+
 >------001：导入相关的包
 >
 >------002：数据源的准备及处理
