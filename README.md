@@ -51,4 +51,4 @@
 >03.浏览器访问：ip:5000
 
 <h3 align = "center">4.运行效果</h3>
-![img.png](img.png)
+
