@@ -1,4 +1,4 @@
-# coding:utf-8
+#coding:utf-8
 """
 1.题目：基于python的pyecharts模块实现将excel中的数据可视化
 2.web框架：Falsk
@@ -30,7 +30,7 @@ import datetime
 
 app = Flask(__name__, static_folder="templates")
 # 获取当前的时间
-time_ = datetime.datetime.now().strftime("%Y年%m月%d日-%H时%M分")
+time_ = datetime.datetime.now().strftime("%Y年%m月%d日-%H时")
 print(time_)
 """
 1.数据源的准备及处理
